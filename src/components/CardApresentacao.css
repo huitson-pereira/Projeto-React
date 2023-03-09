@@ -1,0 +1,40 @@
+#containerCard{
+    background-color: rgb(128, 128, 212);
+    border: 2px solid black;
+    border-radius: 5%;
+    display: flex;
+    margin: 30px;
+    height: 300px;
+    padding: 10px;
+}
+
+img{
+    border-radius: 100%;
+    padding: auto;
+    margin: 20px;
+    width: 150px;
+    height: 150px;
+}
+
+#corLetra{
+    color: rgb(255, 255, 255);
+}
+
+#nome{
+    text-align: center;
+    font-weight: 1.5em;
+}
+
+#idade{
+    text-align: center;
+}
+
+#social{
+    margin: 5px;
+    padding: 5px;
+    margin-top: 1px;
+}
+
+body{
+    background-color: rgb(128, 159, 175);
+}
